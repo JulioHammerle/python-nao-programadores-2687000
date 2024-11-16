@@ -3,9 +3,16 @@
 # - O nome pode ser composto por letras, algarismos e underlines;
 # - E não podemos usar palavras reservadas do Python, como if, for, from, etc. 
 
-# Declare variáveis do tipo string
+# Declare variáveis do tipo string 
+profissao = "engenheiro"
+objetivo = "aprender python para me qualificar"
+
+
 
 # Declare variáveis de cada tipo numérico
+numero inteirO = "2024"
 
 
 # Declare uma variável do tipo booleano
+verdadeiro = True
+falso = False
